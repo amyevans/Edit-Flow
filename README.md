@@ -1,6 +1,6 @@
 # Edit Flow
 
-Redefining your editorial workflow.
+Redefining your editorial workflow!
 
 ## Description
 
